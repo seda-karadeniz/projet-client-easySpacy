@@ -2,7 +2,7 @@
 > projet creer pour le cours de Design web, pour le client: easy spacy.
 > cours donner à la Haute Ecole de la Province de Liège (HEPL).
 
-## [Moodboard](https://app.milanote.com/1Ld3Iw1QVmEN5Z?p=YRIU0ZF8jN1)\
+## [Moodboard](https://app.milanote.com/1Ld3Iw1QVmEN5Z?p=YRIU0ZF8jN1)
 ## strategie
 ### Objectif 
 site web qui a comme public cible toutes les personnes qui n'ont pas de compte instagram, majoritairement les personnes agées. easy spacy utilise instagram pour partager les capsules, le site aura pour but de partager ces capsules avec les personnes qui n'ont donc pas instagram.\
