@@ -10,9 +10,9 @@ y retrouver :
 
 #### page d'accueil 
 * barre de naviagtion 
-* banniere avec les avatars ( peut etre avec des bulles comme dans les capsules où l'un des avatar dit de descendre pour voir les capsules)
+* bannière avec les avatars ( peut etre avec des bulles comme dans les capsules où l'un des avatar dit de descendre pour voir les capsules)
 * petite description 
-  * avoir une fusé placé vers le bas (leger mouvement de haut en bas) pour inciter les utilisateurs à scroller
+  * avoir une fusée placé vers le bas (leger mouvement de haut en bas) pour inciter les utilisateurs à scroller
 * champ de recherche
 * filtre 
   * checkbox 
