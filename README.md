@@ -30,3 +30,5 @@ y retrouver :
   * champ de type email 
   * champ de type sujet 
   * textarea 
+site sera creer avec wordpress\
+le client aura la possibilité d'ajouter ou de retirer du contenu tel que les capsules, les news...
