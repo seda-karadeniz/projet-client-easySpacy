@@ -10,20 +10,21 @@ y retrouver :
 
 #### page d'accueil 
 * barre de naviagtion 
-* bannière avec les avatars ( avec des bulles comme dans les capsules où l'un des avatar dit de descendre pour voir les capsules)
+* bannière avec les avatars ( avec des bulles comme dans les capsules où l'un des avatars dit de descendre pour voir les capsules)
 * petite description 
   * avoir une fusée placé vers le bas (leger mouvement de haut en bas) pour inciter les utilisateurs à scroller
 * champ de recherche
 * filtre 
   * checkbox 
-* avoir deux "onglets" 
+* avoir deux "onglets" ( le fond sera d'une couleur différente que le reste du site, pour unpeu faire ressortir les capsules vu que c'est la partie la plus importante du site )
   * un pour les capsules sur l'astrophisique 
   * l'autre sur l'aérospatiale 
-* qd on clique sur les capsules, les image, video 
+* quand on clique sur les capsules, les image, video 
   * texte descriptif en plus des capsules 
   * possibilité d'ajouter des commentaires
+* un CTA qui mène vers la page contact
 ### news 
-* retrouver toutes les news ou les revue de presse, style blog 
+* retrouver toutes les news ou les revues de presse, style blog 
 ### contact 
 * un formulaire de contact 
   * champ de type text pour le nom 
