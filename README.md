@@ -32,3 +32,4 @@ y retrouver :
   * textarea 
 site sera creer avec wordpress\
 le client aura la possibilité d'ajouter ou de retirer du contenu tel que les capsules, les news...
+le site doit être simple, deja par rapport aux couleurs etc car Sarah et Léo n'aiment pas quand "c'est trop" préferent un côté sobre mais aussi il doit être simple, facile à utiliser (pour les personnes agées).
