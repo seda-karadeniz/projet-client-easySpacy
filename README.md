@@ -23,6 +23,7 @@ y retrouver :
   * texte descriptif en plus des capsules 
   * possibilité d'ajouter des commentaires
 * un CTA qui mène vers la page contact
+* tous les élèments s'afficherons aux scroll de la page, unpeu comme s'ils s'ajoutaient au contenu (unpeu une sorte de glissement)
 ### news 
 * retrouver toutes les news ou les revues de presse, style blog 
 ### contact 
@@ -31,6 +32,7 @@ y retrouver :
   * champ de type email 
   * champ de type sujet 
   * textarea 
+ 
 site sera creer avec wordpress\
 le client aura la possibilité d'ajouter ou de retirer du contenu tel que les capsules, les news...
 le site doit être simple, deja par rapport aux couleurs etc car Sarah et Léo n'aiment pas quand "c'est trop" préferent un côté sobre mais aussi il doit être simple, facile à utiliser (pour les personnes agées).
