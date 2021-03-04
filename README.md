@@ -2,7 +2,10 @@
 > projet creer pour le cours de Design web, pour le client: easy spacy.
 > cours donner à la Haute Ecole de la Province de Liège (HEPL).
 
-## [Moodboard](https://app.milanote.com/1Ld3Iw1QVmEN5Z?p=YRIU0ZF8jN1)
+## [Lien vers mon moodboard](https://app.milanote.com/1Ld3Iw1QVmEN5Z?p=YRIU0ZF8jN1)
+1. Présentation
+EasySpacy est un groupe composé de deux personne, une astrophysicienne et un ingénieur aérospatiale. Les deux amis ont décidé de créé un compte instagram appelé "EasySpacy" qui a pour but de partagé "des capsules" (images, photos, illustrations et vidéos) en rapport avec l'aérospaciale et l'astrophysique. une vulgarisation scientifique pour que tout le monde puisse comprendre.
+
 ## strategie
 ### Objectif 
 site web qui a comme public cible toutes les personnes qui n'ont pas de compte instagram, majoritairement les personnes agées. easy spacy utilise instagram pour partager les capsules, le site aura pour but de partager ces capsules avec les personnes qui n'ont donc pas instagram.\
