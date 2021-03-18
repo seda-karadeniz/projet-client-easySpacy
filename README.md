@@ -16,7 +16,7 @@ y retrouver :
 * bannière avec les avatars ( avec des bulles comme dans les capsules où l'un des avatars dit de descendre pour voir les capsules)
 * petite description 
   * avoir une fusée placé vers le bas (léger mouvement de haut en bas) pour inciter les utilisateurs à scroller
-  * avoir une petite section avec les 4 dernieres capsules et un CTA qui mene vers la page capsule
+* avoir une petite section avec les 4 dernieres capsules et un CTA qui mene vers la page capsule
 #### page capsules
 * champ de recherche
 * filtre 
