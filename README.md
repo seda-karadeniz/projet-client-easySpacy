@@ -20,7 +20,11 @@ y retrouver :
 #### page capsules
 * champ de recherche
 * filtre 
-  * checkbox 
+  * checkbox, la personne pourra choisir entre astrophysique ou aérospatiale
+  * trier par : 
+   * du plus ancien au plus récent 
+   * du plus récent au plus ancien 
+   * les plus commenté au moin commenté
 * une image avec une petite description de la capsule, un CTA renvoi vers la page de la capsule selectionner (une page pour chaque capsule), sur cette page:
   * les capsules 
   * en dessous une plus longue description pour ceux qui veulent en savoir plus que ce qu'il y a dans les capsules ( avoir plus de détaille)
