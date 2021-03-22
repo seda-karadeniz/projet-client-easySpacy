@@ -21,15 +21,11 @@ y retrouver :
 * champ de recherche
 * filtre 
   * checkbox 
-* avoir deux "onglets" ( le fond sera d'une couleur différente que le reste du site, pour unpeu faire ressortir les capsules vu que c'est la partie la plus importante du site )
-  * un pour les capsules sur l'astrophisique 
-  * l'autre sur l'aérospatiale 
 * une image avec une petite description de la capsule, un CTA renvoi vers la page de la capsule selectionner (une page pour chaque capsule), sur cette page:
   * les capsules 
   * en dessous une plus longue description pour ceux qui veulent en savoir plus que ce qu'il y a dans les capsules ( avoir plus de détaille)
   * possibilité d'ajouter des commentaires
-* un CTA qui mène vers la page contact
-* tous les élèments s'afficherons aux scroll de la page, unpeu comme s'ils s'ajoutaient au contenu (unpeu une sorte de glissement)
+* il y'aura une vingtaines de capsules au départ, arriver dans le bas le page vingt autres capsules s'ajouterons
 ### news 
 * retrouver toutes les news ou les revues de presse, style blog 
 ### contact 
